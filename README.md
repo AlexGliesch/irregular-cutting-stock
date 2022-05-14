@@ -13,7 +13,7 @@ Initial solutions are obtained with a reimplementation of the algorithm of [Dala
 ## Running the code
 
 1. Unpack the instances in `instances.tar.gz`.
-1. Compile the code under `src` using `make`. Requires [boost](boost.org).
+1. Compile the code under `src` using `make`. Requires [Boost](boost.org).
 1. Run using `./cut --in {instance} --phi {rotationAngle} --time {timeLimit} --out {outFile}`. 
 1. To visualize the output, run `python plot.py {outFile}`. It generates a pdf with the same file stem in the current directory.
 
