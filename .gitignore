@@ -1,0 +1,9 @@
+*.d
+*.o
+.vscode/
+instances/
+
+src/.clang-format
+src/cut
+src/out.pdf
+src/out.txt
